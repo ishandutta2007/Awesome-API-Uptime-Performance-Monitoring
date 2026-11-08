@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-API-Uptime-Performance-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Uptime-Performance-Monitoring?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Uptime-Performance-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Uptime-Performance-Monitoring?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Uptime-Performance-Monitoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-API-Uptime-Performance-Monitoring?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -58,9 +58,9 @@ The following SaaS solutions are sorted in descending order by company scale (**
 
 ## 💻 Open-Source Monitoring & Status Page Tools
 
-Self-hosted and developer-friendly open-source tools sorted in descending order by **GitHub Stars** count:
+Self-hosted and developer-friendly open-source tools sorted in descending order by **GitHub_Stars** count:
 
-| Project | GitHub Stars | Technology Stack | Description |
+| Project | GitHub_Stars | Technology Stack | Description |
 |---|---|---|---|
 | **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** | [![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers) | Node.js / Vue.js / SQLite | A self-hosted, feature-packed monitoring tool with support for HTTP(s), TCP, Ping, DNS, Docker, beautiful status pages, and 90+ notification dispatchers. |
 | **[Upptime](https://github.com/upptime/upptime)** | [![Stars](https://img.shields.io/github/stars/upptime/upptime?style=social&color=white)](https://github.com/upptime/upptime/stargazers) | GitHub Actions / TypeScript | An open-source uptime monitor and status page powered entirely serverless by GitHub Actions, GitHub Issues, and GitHub Pages. |
